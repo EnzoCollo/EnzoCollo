@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hola, soy Enzo 👋
 
+Desarrollador full-stack en formación. 
+Estoy en cuarto año de ingenieria en sistemas en la UTN FRM 🫩​
+
+## 🛠️ Tecnologías
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,git,github,java,linux,mint,nodejs,notion,npm,postgres,postman,react,supabase,vscode)](https://skillicons.dev)
+
+## 🚀 Proyectos
+- [AnimeIndex](animeindex.app): explorá y compartí animes con tus amigos
 <!--
 **EnzoCollo/EnzoCollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
