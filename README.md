@@ -4,7 +4,7 @@ Desarrollador full-stack en formación.
 Estoy en cuarto año de ingenieria en sistemas en la UTN FRM 🫩​
 
 ## 🛠️ Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,docker,git,github,java,linux,mint,nodejs,notion,npm,postgres,postman,react,supabase,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,postgres,supabase,vscode,git,github,docker,postman,linux,mint)](https://skillicons.dev)
 
 ## 🚀 Proyectos
 - [AnimeIndex](animeindex.app): explorá y compartí animes con tus amigos
