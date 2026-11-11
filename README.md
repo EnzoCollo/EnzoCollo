@@ -6,6 +6,9 @@ Estoy en cuarto año de ingenieria en sistemas en la UTN FRM 🫩​
 ## 🛠️ Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,postgres,supabase,vscode,git,github,docker,postman,linux,mint)](https://skillicons.dev)
 
+## 🚀 Proyectos
+- [AnimeIndex](https://www.animeindex.app/): explorá y comparti anime con tus amigos
+
 <!--
 **EnzoCollo/EnzoCollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
