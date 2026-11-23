@@ -18,13 +18,7 @@ I've been studying systems engineering for 4 years, and a couple more years inte
 ## 🛠️ My skills so far
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,nodejs,py,postgres,supabase,vscode,git,github,docker,postman,linux)](https://skillicons.dev)
 
-## 📊 GitHub stats
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnzoCollo&show_icons=true&theme=tokyonight&hide_border=true&commits_year=2026" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCollo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=EnzoCollo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-## 🐍 Contribution snake
+## 🐍 Contribution 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoCollo/EnzoCollo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnzoCollo/EnzoCollo/output/github-snake.svg" />
