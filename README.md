@@ -1,12 +1,12 @@
 Hi! My name is Enzo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Full-stack+web+developer;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Construyendo+AnimeIndex" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Full-stack+web+developer;Software-Engineering-Student;Building+AnimeIndex" alt="Typing SVG" />
 
 Full-stack web developer
 ------------------------
 
-I've been studying systems engineering for 4 years, and a couple more years interested in code in general. Over the last few years I have focused on full stack web development but I have knowledge in systems design, database administration and code flows in general, or at least I think so haha. Anyway, I'm looking for new experiences and any development opportunities are welcome
+I've been studying systems engineering for 4 years, and a couple more years interested in code in general. Over the last few years I've focused on full stack web development but I have knowledge in systems design, database administration and code flows in general, or at least I think so haha. Anyway, I'm looking for new experiences and any development opportunities are welcome
 
 * 🌍  I'm based in Mendoza-Argentina
 * ✉️  You can contact me at [enzocollo00@gmail.com](mailto:enzocollo00@gmail.com)
